@@ -13,7 +13,7 @@ The Jira comment contains :
 - Commit author
 - Commit date
 - Commit message
-- A link to your git service website of the commit if gitServiceRootUrl is not tempty
+- A link to your git service website of the commit if gitServiceRootUrl is not empty
 
 This file must be named post-receive, and be saved in the hook directory in a bare git repository.
 Run "chmod +x post-receive" to make it executable.
